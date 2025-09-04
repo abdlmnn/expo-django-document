@@ -24,8 +24,6 @@ Make sure you have the following installed:
 
 - [Git](https://git-scm.com/)
 
---
-
 ## React Native Expo Setup
 
 Install Expo
@@ -93,8 +91,6 @@ Take Note: Make sure run the app **npx expo start**, then proceed to this steps.
 2. Search Expo Go
 3. Install Expo Go
 4. Scan QR code or Enter URL Manually
-
---
 
 ## SafeAreaView
 
