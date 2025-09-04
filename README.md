@@ -2,7 +2,7 @@
 
 This documentation covers the installation and setup of **React Native Expo and Django**. It serves as a record of my learning journey with these two stacks, including all the fundamental concepts and configurations I’ve explored.
 
-## Documentation: Expo, React Native, Django and Django API REST FRAMEWORK:
+## Documentation: Expo, React Native, Django and Django API REST FRAMEWORK
 
 - [Expo](https://docs.expo.dev/get-started/introduction/)
 
